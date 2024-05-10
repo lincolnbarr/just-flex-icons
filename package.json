@@ -1,0 +1,26 @@
+{
+  "name": "@lincolnbarr/just-flex-icons",
+  "version": "1.0.0",
+  "description": "Just Icons for describing css flexbox behaviour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincolnbarr/just-flex-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "flexbox",
+    "flex",
+    "css",
+    "tools"
+  ],
+  "author": "Lincoln Barr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lincolnbarr/just-flex-icons/issues"
+  },
+  "homepage": "https://github.com/lincolnbarr/just-flex-icons#readme"
+}
