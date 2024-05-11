@@ -5,8 +5,7 @@ import BaseIcon from '../base-icon';
 export default function (props) {
   return (
     <BaseIcon {...props}>
-     <polygon points="468,233 399,233 399,86 279,86 279,233 231,233 231,138 111,138 111,233 44,233 44,279 111,279 111,374 231,374 
-	231,279 279,279 279,428 399,428 399,279 468,279 "/>
+      <path d="M468 233h-69V86H279v147h-48v-95H111v95H44v46h67v95h120v-95h48v149h120V279h69z"/>
     </BaseIcon>
   );
 }

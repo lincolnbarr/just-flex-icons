@@ -5,7 +5,7 @@ import BaseIcon from '../base-icon';
 export default function (props) {
   return (
     <BaseIcon {...props}>
-     <rect x="231" y="233" width="424" height="46"/><rect x="-143" y="233" width="424" height="46"/><rect x="270" y="103" width="120" height="306"/><rect x="121" y="103" width="120" height="306"/>
+      <path d="M466 44v424h-46V44zM92 44v424H46V44zM270 103h120v306H270zM121 103h120v306H121z"/>
     </BaseIcon>
   );
 }

@@ -1,6 +1,6 @@
 {
   "name": "@lincolnbarr/just-flex-icons",
-  "version": "0.0.4",
+  "version": "0.0.41",
   "description": "Just icons for describing css flexbox behaviour.",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,8 @@
     "gulp-replace": "^1.1.4",
     "gulp-svgmin": "^4.1.0",
     "gulp-wrap": "^0.15.0"
+  },
+  "devDependencies": {
+    "gulp-svgo": "^2.2.1"
   }
 }
