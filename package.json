@@ -1,6 +1,6 @@
 {
   "name": "@lincolnbarr/just-flex-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just icons for describing css flexbox behaviour.",
   "main": "index.js",
   "scripts": {

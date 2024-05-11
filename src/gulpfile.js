@@ -9,7 +9,7 @@ const gulp = require('gulp')
 ;
 
 const svg_files_folder = './svg',
-  dest_folder = '../dist/react/',
+  dest_folder = '../react/',
   jsx_template = './templates/icon-components-template.jsx';
 
 let icons_component_list = [];
