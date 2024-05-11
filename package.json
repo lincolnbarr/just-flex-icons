@@ -1,10 +1,10 @@
 {
   "name": "@lincolnbarr/just-flex-icons",
-  "version": "1.0.0",
-  "description": "Just Icons for describing css flexbox behaviour.",
+  "version": "0.0.1",
+  "description": "Just icons for describing css flexbox behaviour.",
   "main": "index.js",
   "scripts": {
-    "test": "hello"
+    "build": "gulp --gulpfile=src/gulpfile.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/lincolnbarr/just-flex-icons/issues"
   },
-  "homepage": "https://github.com/lincolnbarr/just-flex-icons#readme"
+  "homepage": "https://github.com/lincolnbarr/just-flex-icons#readme",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-svgmin": "^4.1.0",
+    "gulp-wrap": "^0.15.0"
+  }
 }
